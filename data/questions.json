@@ -1,0 +1,786 @@
+{
+  "dimensions": {
+    "D1": {
+      "name": "D1 龙之本性",
+      "name_en": "D1 Dragon Nature",
+      "model": "本性模型",
+      "model_en": "Nature Model"
+    },
+    "D2": {
+      "name": "D2 力量倾向",
+      "name_en": "D2 Power Tendency",
+      "model": "力量模型",
+      "model_en": "Power Model"
+    },
+    "D3": {
+      "name": "D3 宝藏心态",
+      "name_en": "D3 Hoard Mentality",
+      "model": "宝藏模型",
+      "model_en": "Hoard Model"
+    },
+    "D4": {
+      "name": "D4 社交行为",
+      "name_en": "D4 Social Behavior",
+      "model": "社交模型",
+      "model_en": "Social Model"
+    },
+    "D5": {
+      "name": "D5 战斗风格",
+      "name_en": "D5 Combat Style",
+      "model": "战斗模型",
+      "model_en": "Combat Model"
+    },
+    "D6": {
+      "name": "D6 领地态度",
+      "name_en": "D6 Territory Attitude",
+      "model": "领地模型",
+      "model_en": "Territory Model"
+    },
+    "D7": {
+      "name": "D7 智力取向",
+      "name_en": "D7 Intelligence Approach",
+      "model": "智力模型",
+      "model_en": "Intelligence Model"
+    },
+    "D8": {
+      "name": "D8 情感表达",
+      "name_en": "D8 Emotional Expression",
+      "model": "情感模型",
+      "model_en": "Emotion Model"
+    },
+    "D9": {
+      "name": "D9 道德阵营",
+      "name_en": "D9 Moral Alignment",
+      "model": "道德模型",
+      "model_en": "Moral Model"
+    },
+    "D10": {
+      "name": "D10 野心程度",
+      "name_en": "D10 Ambition Level",
+      "model": "野心模型",
+      "model_en": "Ambition Model"
+    },
+    "D11": {
+      "name": "D11 决策方式",
+      "name_en": "D11 Decision Making",
+      "model": "决策模型",
+      "model_en": "Decision Model"
+    },
+    "D12": {
+      "name": "D12 行动导向",
+      "name_en": "D12 Action Orientation",
+      "model": "行动模型",
+      "model_en": "Action Model"
+    },
+    "D13": {
+      "name": "D13 社交互动",
+      "name_en": "D13 Social Interaction",
+      "model": "互动模型",
+      "model_en": "Interaction Model"
+    },
+    "D14": {
+      "name": "D14 边界设定",
+      "name_en": "D14 Boundary Setting",
+      "model": "边界模型",
+      "model_en": "Boundary Model"
+    },
+    "D15": {
+      "name": "D15 真实性",
+      "name_en": "D15 Authenticity",
+      "model": "真实模型",
+      "model_en": "Authenticity Model"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "dim": "D1",
+      "text": "当有生物误闯入你的领地时，你第一反应是什么？",
+      "text_en": "When a creature accidentally enters your territory, what is your first reaction?",
+      "options": [
+        {
+          "label": "立即警告并准备战斗",
+          "label_en": "Immediately warn and prepare for battle",
+          "value": 1
+        },
+        {
+          "label": "先观察对方意图再决定",
+          "label_en": "Observe their intentions first, then decide",
+          "value": 2
+        },
+        {
+          "label": "愿意和平交流或给予指引",
+          "label_en": "Willing to communicate peacefully or give guidance",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "dim": "D1",
+      "text": "你认为作为一条龙最重要的是什么？",
+      "text_en": "What do you think is most important as a dragon?",
+      "options": [
+        {
+          "label": "力量和威严",
+          "label_en": "Power and majesty",
+          "value": 1
+        },
+        {
+          "label": "智慧和策略",
+          "label_en": "Wisdom and strategy",
+          "value": 2
+        },
+        {
+          "label": "自由和善良",
+          "label_en": "Freedom and kindness",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "dim": "D2",
+      "text": "面对比你强大的对手，你会如何应对？",
+      "text_en": "How would you handle an opponent stronger than you?",
+      "options": [
+        {
+          "label": "寻找对方弱点进行突袭",
+          "label_en": "Find their weakness and launch a surprise attack",
+          "value": 1
+        },
+        {
+          "label": "制定周密计划再行动",
+          "label_en": "Make a detailed plan before acting",
+          "value": 2
+        },
+        {
+          "label": "寻求盟友或避其锋芒",
+          "label_en": "Seek allies or avoid direct confrontation",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "dim": "D2",
+      "text": "你如何看待自己在龙族中的地位？",
+      "text_en": "How do you view your status among dragonkind?",
+      "options": [
+        {
+          "label": "渴望成为最强的龙族领袖",
+          "label_en": "Desire to become the strongest dragon leader",
+          "value": 1
+        },
+        {
+          "label": "希望通过实力赢得尊重",
+          "label_en": "Hope to earn respect through ability",
+          "value": 2
+        },
+        {
+          "label": "更在意内在修养而非地位",
+          "label_en": "More concerned with inner cultivation than status",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "dim": "D3",
+      "text": "对于你的宝藏，你希望如何展示？",
+      "text_en": "How would you like to display your hoard?",
+      "options": [
+        {
+          "label": "深埋在隐秘的洞穴中",
+          "label_en": "Deeply buried in a secret cave",
+          "value": 1
+        },
+        {
+          "label": "只让值得信任的人看见",
+          "label_en": "Only show to trustworthy individuals",
+          "value": 2
+        },
+        {
+          "label": "愿意与有价值的人分享",
+          "label_en": "Willing to share with valuable individuals",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "dim": "D3",
+      "text": "有人想要从你的宝藏中取走一件物品，你会怎么想？",
+      "text_en": "Someone wants to take one item from your hoard, what would you think?",
+      "options": [
+        {
+          "label": "绝对不允许，那是我的一切",
+          "label_en": "Absolutely not allowed, that's everything to me",
+          "value": 1
+        },
+        {
+          "label": "看对方是否有足够的诚意和理由",
+          "label_en": "See if they have enough sincerity and reason",
+          "value": 2
+        },
+        {
+          "label": "如果对方需要，愿意给予",
+          "label_en": "Willing to give if they truly need it",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "dim": "D4",
+      "text": "遇到其他龙时，你更倾向的交往方式是？",
+      "text_en": "When meeting other dragons, what's your preferred way of interacting?",
+      "options": [
+        {
+          "label": "保持警惕和距离",
+          "label_en": "Keep alert and maintain distance",
+          "value": 1
+        },
+        {
+          "label": "礼貌交往但不过多深入",
+          "label_en": "Polite interaction without getting too deep",
+          "value": 2
+        },
+        {
+          "label": "热情交流，建立友谊",
+          "label_en": "Enthusiastic communication to build friendship",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "dim": "D4",
+      "text": "如果有弱小的生物寻求你的帮助，你会？",
+      "text_en": "If a weak creature seeks your help, what would you do?",
+      "options": [
+        {
+          "label": "视情况决定是否理会",
+          "label_en": "Decide whether to respond based on the situation",
+          "value": 1
+        },
+        {
+          "label": "观察对方是否值得帮助",
+          "label_en": "Observe if they are worth helping",
+          "value": 2
+        },
+        {
+          "label": "伸出援手，慷慨相助",
+          "label_en": "Extend help generously",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "dim": "D5",
+      "text": "在战斗中，你更倾向于哪种风格？",
+      "text_en": "In combat, which style do you prefer?",
+      "options": [
+        {
+          "label": "直接正面猛攻",
+          "label_en": "Direct frontal assault",
+          "value": 1
+        },
+        {
+          "label": "利用环境和陷阱智取",
+          "label_en": "Use environment and traps strategically",
+          "value": 2
+        },
+        {
+          "label": "尽量避免战斗，寻求和平解决",
+          "label_en": "Avoid combat if possible, seek peaceful solution",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "dim": "D5",
+      "text": "使用龙息时，你更注重什么？",
+      "text_en": "When using your breath weapon, what do you focus on?",
+      "options": [
+        {
+          "label": "追求最大的破坏力",
+          "label_en": "Pursue maximum destructive power",
+          "value": 1
+        },
+        {
+          "label": "精准打击关键目标",
+          "label_en": "Precise strike on key targets",
+          "value": 2
+        },
+        {
+          "label": "威慑为主，避免真正伤害",
+          "label_en": "Deterrence first, avoid real harm",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "dim": "D6",
+      "text": "对于自己的领地，你希望如何管理？",
+      "text_en": "How would you like to manage your territory?",
+      "options": [
+        {
+          "label": "绝对统治，不许任何生物侵犯",
+          "label_en": "Absolute rule, no creature intrusion allowed",
+          "value": 1
+        },
+        {
+          "label": "建立规则，允许有序进入",
+          "label_en": "Establish rules, allow orderly entry",
+          "value": 2
+        },
+        {
+          "label": "开放领地，与其他生物和谐共存",
+          "label_en": "Open territory, coexist harmoniously with others",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "dim": "D6",
+      "text": "当领地受到威胁时，你会？",
+      "text_en": "When your territory is threatened, what would you do?",
+      "options": [
+        {
+          "label": "立即反击，不惜一切代价",
+          "label_en": "Immediate counterattack at any cost",
+          "value": 1
+        },
+        {
+          "label": "评估威胁程度，有策略地应对",
+          "label_en": "Assess threat level and respond strategically",
+          "value": 2
+        },
+        {
+          "label": "寻求和平解决，避免流血冲突",
+          "label_en": "Seek peaceful resolution, avoid bloodshed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "dim": "D7",
+      "text": "你更喜欢通过什么方式获得知识？",
+      "text_en": "Which way do you prefer to gain knowledge?",
+      "options": [
+        {
+          "label": "实践和经验",
+          "label_en": "Practice and experience",
+          "value": 1
+        },
+        {
+          "label": "观察和分析",
+          "label_en": "Observation and analysis",
+          "value": 2
+        },
+        {
+          "label": "研究和冥想",
+          "label_en": "Research and meditation",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "dim": "D7",
+      "text": "面对复杂问题时，你更依赖什么？",
+      "text_en": "When facing complex problems, what do you rely on more?",
+      "options": [
+        {
+          "label": "直觉和本能",
+          "label_en": "Intuition and instinct",
+          "value": 1
+        },
+        {
+          "label": "逻辑和推理",
+          "label_en": "Logic and reasoning",
+          "value": 2
+        },
+        {
+          "label": "智慧和洞察",
+          "label_en": "Wisdom and insight",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "dim": "D8",
+      "text": "你如何表达自己的情感？",
+      "text_en": "How do you express your emotions?",
+      "options": [
+        {
+          "label": "直接而强烈地表达",
+          "label_en": "Express directly and intensely",
+          "value": 1
+        },
+        {
+          "label": "有节制地表达，看场合",
+          "label_en": "Express moderately depending on the situation",
+          "value": 2
+        },
+        {
+          "label": "内敛而深沉，不轻易表露",
+          "label_en": "Restrained and deep, not easily revealed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "dim": "D8",
+      "text": "当看到其他龙陷入困境时，你会？",
+      "text_en": "When you see another dragon in trouble, what would you do?",
+      "options": [
+        {
+          "label": "观望情况，不轻易介入",
+          "label_en": "Watch the situation, not easily intervene",
+          "value": 1
+        },
+        {
+          "label": "权衡利弊后决定是否帮助",
+          "label_en": "Weigh pros and cons before deciding to help",
+          "value": 2
+        },
+        {
+          "label": "立即伸出援手",
+          "label_en": "Immediately extend help",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "dim": "D9",
+      "text": "你认为善与恶的区别是什么？",
+      "text_en": "What do you think is the difference between good and evil?",
+      "options": [
+        {
+          "label": "强弱之分，强者制定规则",
+          "label_en": "Difference between strong and weak, the strong make rules",
+          "value": 1
+        },
+        {
+          "label": "秩序与混乱，各有其道理",
+          "label_en": "Order and chaos, each has its reasoning",
+          "value": 2
+        },
+        {
+          "label": "利他与自私，以他人利益为先",
+          "label_en": "Altruism vs selfishness, prioritize others' interests",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "dim": "D9",
+      "text": "看到不公正的事情时，你会如何反应？",
+      "text_en": "How would you react to seeing injustice?",
+      "options": [
+        {
+          "label": "事不关己，高高挂起",
+          "label_en": "Not my concern, stay out of it",
+          "value": 1
+        },
+        {
+          "label": "看情况决定是否介入",
+          "label_en": "Decide whether to intervene based on the situation",
+          "value": 2
+        },
+        {
+          "label": "挺身而出，维护正义",
+          "label_en": "Stand up and defend justice",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "dim": "D10",
+      "text": "对于未来，你有什么样的期待？",
+      "text_en": "What are your expectations for the future?",
+      "options": [
+        {
+          "label": "成为最强大的龙，统治一切",
+          "label_en": "Become the most powerful dragon, rule everything",
+          "value": 1
+        },
+        {
+          "label": "在龙族中获得重要地位",
+          "label_en": "Gain important status among dragonkind",
+          "value": 2
+        },
+        {
+          "label": "追求内心的平静和智慧",
+          "label_en": "Pursue inner peace and wisdom",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "dim": "D10",
+      "text": "面对能够提升自己力量的机会，你会？",
+      "text_en": "When faced with opportunities to increase your power, what would you do?",
+      "options": [
+        {
+          "label": "不惜一切代价抓住机会",
+          "label_en": "Seize the opportunity at any cost",
+          "value": 1
+        },
+        {
+          "label": "权衡利弊后谨慎尝试",
+          "label_en": "Carefully try after weighing pros and cons",
+          "value": 2
+        },
+        {
+          "label": "如果违背原则则放弃",
+          "label_en": "Give up if it goes against principles",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "dim": "D11",
+      "text": "做重要决定时，你通常会？",
+      "text_en": "When making important decisions, do you usually?",
+      "options": [
+        {
+          "label": "果断迅速，不犹豫",
+          "label_en": "Decisive and quick, no hesitation",
+          "value": 1
+        },
+        {
+          "label": "经过一定思考后决定",
+          "label_en": "Decide after some thought",
+          "value": 2
+        },
+        {
+          "label": "深思熟虑，反复推敲",
+          "label_en": "Deep consideration, repeated deliberation",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "dim": "D11",
+      "text": "如果发现之前的决定是错误的，你会？",
+      "text_en": "If you find a previous decision was wrong, would you?",
+      "options": [
+        {
+          "label": "立即改变方向",
+          "label_en": "Immediately change direction",
+          "value": 1
+        },
+        {
+          "label": "评估影响后再调整",
+          "label_en": "Assess impact before adjusting",
+          "value": 2
+        },
+        {
+          "label": "分析原因，从中学习",
+          "label_en": "Analyze reasons and learn from it",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "dim": "D12",
+      "text": "面对任务或目标，你更倾向的行动方式是？",
+      "text_en": "When facing tasks or goals, what's your preferred approach?",
+      "options": [
+        {
+          "label": "立刻行动，边做边调整",
+          "label_en": "Immediate action, adjust while doing",
+          "value": 1
+        },
+        {
+          "label": "制定计划，按步骤执行",
+          "label_en": "Make plan, execute step by step",
+          "value": 2
+        },
+        {
+          "label": "先观察学习，再谨慎行动",
+          "label_en": "Observe and learn first, then act cautiously",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "dim": "D12",
+      "text": "你更习惯的生活方式是？",
+      "text_en": "What lifestyle are you more accustomed to?",
+      "options": [
+        {
+          "label": "主动出击，掌控局面",
+          "label_en": "Proactive, control the situation",
+          "value": 1
+        },
+        {
+          "label": "有条不紊，按部就班",
+          "label_en": "Orderly, proceed step by step",
+          "value": 2
+        },
+        {
+          "label": "顺其自然，随遇而安",
+          "label_en": "Go with the flow, adapt to circumstances",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "dim": "D13",
+      "text": "在群体中，你更倾向于扮演什么角色？",
+      "text_en": "In a group, what role do you prefer to play?",
+      "options": [
+        {
+          "label": "领导者，指挥大家",
+          "label_en": "Leader, command everyone",
+          "value": 1
+        },
+        {
+          "label": "参与者，配合团队",
+          "label_en": "Participant, cooperate with team",
+          "value": 2
+        },
+        {
+          "label": "观察者，默默支持",
+          "label_en": "Observer, silently support",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "dim": "D13",
+      "text": "遇到陌生龙时，你的态度是？",
+      "text_en": "When meeting a strange dragon, what's your attitude?",
+      "options": [
+        {
+          "label": "谨慎试探，保持距离",
+          "label_en": "Cautious probing, maintain distance",
+          "value": 1
+        },
+        {
+          "label": "礼貌接触，逐步了解",
+          "label_en": "Polite contact, gradually understand",
+          "value": 2
+        },
+        {
+          "label": "热情友好，快速建立联系",
+          "label_en": "Warm and friendly, quickly establish connection",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "dim": "D14",
+      "text": "你如何处理与他人的关系界限？",
+      "text_en": "How do you handle boundaries with others?",
+      "options": [
+        {
+          "label": "明确界限，不容侵犯",
+          "label_en": "Clear boundaries, no violation allowed",
+          "value": 1
+        },
+        {
+          "label": "保持适度距离，互不干扰",
+          "label_en": "Maintain moderate distance, don't interfere",
+          "value": 2
+        },
+        {
+          "label": "开放包容，乐于分享",
+          "label_en": "Open and inclusive, happy to share",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "dim": "D14",
+      "text": "当他人过度依赖你时，你会？",
+      "text_en": "When others overly depend on you, what would you do?",
+      "options": [
+        {
+          "label": "保持独立，不让人过度依赖",
+          "label_en": "Maintain independence, don't let others over-depend",
+          "value": 1
+        },
+        {
+          "label": "适当帮助，但设立界限",
+          "label_en": "Help appropriately but set boundaries",
+          "value": 2
+        },
+        {
+          "label": "慷慨支持，愿意成为依靠",
+          "label_en": "Generous support, willing to be relied upon",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "dim": "D15",
+      "text": "在不同场合，你的表现如何？",
+      "text_en": "How do you behave in different situations?",
+      "options": [
+        {
+          "label": "始终如一，本色出演",
+          "label_en": "Always consistent, show true self",
+          "value": 1
+        },
+        {
+          "label": "略有调整，但保持主要特质",
+          "label_en": "Slight adjustments but maintain main traits",
+          "value": 2
+        },
+        {
+          "label": "根据场合灵活改变",
+          "label_en": "Flexibly change based on the situation",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "dim": "D15",
+      "text": "你如何处理自己的真实想法和外在表现的差异？",
+      "text_en": "How do you handle the difference between your true thoughts and external behavior?",
+      "options": [
+        {
+          "label": "内外一致，不隐藏真实想法",
+          "label_en": "Consistent inside and out, don't hide true thoughts",
+          "value": 1
+        },
+        {
+          "label": "有选择地表达部分想法",
+          "label_en": "Selectively express some thoughts",
+          "value": 2
+        },
+        {
+          "label": "根据需要调整表达方式",
+          "label_en": "Adjust expression based on needs",
+          "value": 3
+        }
+      ]
+    }
+  ]
+}

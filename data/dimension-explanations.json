@@ -1,0 +1,124 @@
+{
+  "explanations": {
+    "D1": {
+      "L": "你的龙之本性更加直接纯粹，不喜欢复杂的套路，相信力量和直觉。",
+      "L_en": "Your dragon nature is more direct and pure, disliking complex schemes, believing in power and instinct.",
+      "M": "你的龙之本性在直接与智慧之间保持平衡，能够根据情况调整自己的方式。",
+      "M_en": "Your dragon nature maintains balance between directness and wisdom, able to adjust your approach based on situations.",
+      "H": "你的龙之本性包含高度的智慧和仁慈，能够从宏观角度思考问题。",
+      "H_en": "Your dragon nature contains high wisdom and benevolence, able to think from a macro perspective."
+    },
+    "D2": {
+      "L": "你对力量的追求相对平和，更注重内在修养而非外在地位。",
+      "L_en": "Your pursuit of power is relatively peaceful, focusing more on inner cultivation than external status.",
+      "M": "你对力量有着理性的追求，既希望获得尊重又不愿过于执着。",
+      "M_en": "You have a rational pursuit of power, desiring respect while avoiding excessive attachment.",
+      "H": "你对力量有着强烈的追求，相信自己应该成为最强的领导者。",
+      "H_en": "You have a strong pursuit of power, believing you should become the strongest leader."
+    },
+    "D3": {
+      "L": "你的宝藏心态相对开放，愿意与值得信赖的人分享珍贵的事物。",
+      "L_en": "Your hoard mentality is relatively open, willing to share precious things with trustworthy individuals.",
+      "M": "你对宝藏有着理性的态度，珍视但不固执，愿意在适当时候给予他人。",
+      "M_en": "You have a rational attitude toward hoards, valuing but not stubborn, willing to give to others when appropriate.",
+      "H": "你对宝藏有着极强的占有欲，视珍宝为自己最重要的财产。",
+      "H_en": "You have an extremely strong possessiveness toward hoards, viewing treasures as your most important property."
+    },
+    "D4": {
+      "L": "你在社交方面相对谨慎，更愿意保持一定的距离和独立性。",
+      "L_en": "You are relatively cautious in social aspects, preferring to maintain some distance and independence.",
+      "M": "你的社交行为适中，既不过于热情也不过于冷漠，保持适度的人际关系。",
+      "M_en": "Your social behavior is moderate, neither overly enthusiastic nor cold, maintaining moderate relationships.",
+      "H": "你在社交方面非常活跃，乐于与各种生物建立友好关系。",
+      "H_en": "You are very active socially, happy to establish friendly relationships with various creatures."
+    },
+    "D5": {
+      "L": "你的战斗风格更倾向于避免冲突，在可能的情况下寻求和平解决。",
+      "L_en": "Your combat style leans toward avoiding conflict, seeking peaceful solutions when possible.",
+      "M": "你的战斗风格较为平衡，既有勇气面对冲突，也会考虑和平解决的可能性。",
+      "M_en": "Your combat style is relatively balanced, having the courage to face conflict while considering peaceful resolution.",
+      "H": "你的战斗风格积极主动，相信直面挑战是解决问题的最佳方式。",
+      "H_en": "Your combat style is proactive, believing facing challenges directly is the best way to solve problems."
+    },
+    "D6": {
+      "L": "你对领地的管理相对开放，愿意与其他生物和谐共存。",
+      "L_en": "Your territory management is relatively open, willing to coexist harmoniously with other creatures.",
+      "M": "你对领地有适度的掌控欲，既希望保持秩序，也不完全排斥外来者。",
+      "M_en": "You have moderate control desire over territory, wishing to maintain order while not completely rejecting outsiders.",
+      "H": "你对领地有着绝对的控制欲，不允许任何未经许可的入侵。",
+      "H_en": "You have absolute control desire over territory, not allowing any unauthorized intrusion."
+    },
+    "D7": {
+      "L": "你更依赖实践和经验来获得知识，相信亲身经历。",
+      "L_en": "You rely more on practice and experience to gain knowledge, believing in personal experience.",
+      "M": "你的知识获取方式平衡，既重视实践也会进行理性的分析。",
+      "M_en": "Your knowledge acquisition method is balanced, valuing both practice and rational analysis.",
+      "H": "你更倾向于通过深度研究和冥想来获得智慧，追求对事物本质的理解。",
+      "H_en": "You tend to gain wisdom through deep research and meditation, pursuing understanding of the essence of things."
+    },
+    "D8": {
+      "L": "你的情感表达相对内敛，不轻易向外展示自己的内心感受。",
+      "L_en": "Your emotional expression is relatively restrained, not easily showing your inner feelings outward.",
+      "M": "你的情感表达适度，会根据场合决定表达的程度。",
+      "M_en": "Your emotional expression is moderate, deciding the degree of expression based on the situation.",
+      "H": "你的情感表达强烈直接，愿意让他人了解你的真实感受。",
+      "H_en": "Your emotional expression is strong and direct, willing to let others know your true feelings."
+    },
+    "D9": {
+      "L": "你的道德观念相对实用，更关注结果而非过程的道德性。",
+      "L_en": "Your moral concept is relatively practical, focusing more on results than the morality of the process.",
+      "M": "你的道德观念在实用与理想之间平衡，会根据情况调整道德判断。",
+      "M_en": "Your moral concept balances between practicality and idealism, adjusting moral judgment based on situations.",
+      "H": "你的道德观念强烈，始终坚持以善良和正义为行事准则。",
+      "H_en": "Your moral concept is strong, always adhering to kindness and justice as your behavioral guidelines."
+    },
+    "D10": {
+      "L": "你的野心相对平和，更在意内心的平静而非外在的成就。",
+      "L_en": "Your ambition is relatively peaceful, caring more about inner peace than external achievements.",
+      "M": "你的野心适中，有目标但不过于执着，愿意为重要的事业付出努力。",
+      "M_en": "Your ambition is moderate, having goals but not overly attached, willing to put effort into important causes.",
+      "H": "你的野心很强，对权力和成就有着强烈的追求。",
+      "H_en": "Your ambition is strong, having a strong pursuit of power and achievements."
+    },
+    "D11": {
+      "L": "你的决策方式深思熟虑，习惯反复推敲，确保决定正确。",
+      "L_en": "Your decision-making is deep thinking, accustomed to repeated deliberation to ensure correct decisions.",
+      "M": "你的决策方式适度，既不会过于犹豫也不会过于冲动。",
+      "M_en": "Your decision-making method is moderate, neither too hesitant nor too impulsive.",
+      "H": "你的决策方式果断快速，相信直觉和第一反应。",
+      "H_en": "Your decision-making method is decisive and fast, believing in intuition and first reactions."
+    },
+    "D12": {
+      "L": "你的行动相对被动，更倾向于观察和等待合适的机会。",
+      "L_en": "Your action is relatively passive, tending to observe and wait for suitable opportunities.",
+      "M": "你的行动方式平衡，既有主动性也会保持一定的谨慎。",
+      "M_en": "Your action method is balanced, having both proactiveness and maintaining some caution.",
+      "H": "你的行动积极主动，相信快速行动是达成目标的关键。",
+      "H_en": "Your action is proactive, believing quick action is the key to achieving goals."
+    },
+    "D13": {
+      "L": "你的社交互动相对谨慎，更愿意在观察后再建立联系。",
+      "L_en": "Your social interaction is relatively cautious, preferring to establish connections after observation.",
+      "M": "你的社交互动适度，既不会过于热情也不会过于冷漠。",
+      "M_en": "Your social interaction is moderate, neither too enthusiastic nor too cold.",
+      "H": "你的社交互动积极主动，乐于结识新的朋友和建立人脉。",
+      "H_en": "Your social interaction is proactive, happy to meet new friends and build networks."
+    },
+    "D14": {
+      "L": "你与他人的界限相对模糊，更愿意分享和融合。",
+      "L_en": "Your boundaries with others are relatively blurred, more willing to share and integrate.",
+      "M": "你与他人的界限适度，既保持独立又愿意在适当时候帮助他人。",
+      "M_en": "Your boundaries with others are moderate, maintaining independence while willing to help others when appropriate.",
+      "H": "你与他人的界限明确，重视个人空间和独立性。",
+      "H_en": "Your boundaries with others are clear, valuing personal space and independence."
+    },
+    "D15": {
+      "L": "你始终保持真实，无论在什么场合都展现本我。",
+      "L_en": "You always maintain authenticity, showing your true self regardless of the situation.",
+      "M": "你的真实性适中，会根据场合有选择地表达自己。",
+      "M_en": "Your authenticity is moderate, selectively expressing yourself based on the situation.",
+      "H": "你善于根据不同场合调整自己的表现方式，灵活适应各种环境。",
+      "H_en": "You are good at adjusting your expression based on different situations, flexibly adapting to various environments."
+    }
+  }
+}
